@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: improper handling of empty parameters.  The `bug.vbs` file shows the faulty code, which throws a runtime error if the parameter is empty. The `bugSolution.vbs` file provides a corrected version which gracefully handles empty or unexpected parameters, providing more robust error handling and better user feedback.
